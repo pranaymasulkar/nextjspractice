@@ -1,7 +1,7 @@
 import React from "react";
 
-const CountTwo = (props) => {
-  const { ctname, ctage } = props;
+const CountTwo = (chacha) => {
+  const { ctname, ctage } = chacha;
   return (
     <div>
       <h1>
