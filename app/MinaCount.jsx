@@ -3,7 +3,6 @@ import Count from "./Count";
 import CountOne from "./CountOne";
 import CountTwo from "./CountTwo";
 import MapFillRedu from "./MapFillRedu";
-
 const MinaCount = () => {
   return (
     <div>
